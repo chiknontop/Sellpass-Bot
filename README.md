@@ -1,4 +1,4 @@
-# Sellpass-Bot-
+# SellpassBot
 This is a unfinished project of a bot made for Sellpass API
 
 I might pick it back up if it gets some traction again
