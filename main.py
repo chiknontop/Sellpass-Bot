@@ -14,7 +14,7 @@ if __name__ == "__main__":
     sp = SellPass(
         api_key = api_key,
         debug = True,
-        shop_id = 3501
+        shop_id = shop_id
         )
 
 @client.event
